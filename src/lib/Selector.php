@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: GiantQuartz
- * Date: 22/09/2017
- * Time: 18:26
- */
 
 namespace lib;
 
