@@ -1,0 +1,16 @@
+{
+  "name": "§b§lLegendary Crate",
+  "identifier": "legendary.crate",
+  "content": [
+    {"rouletteMessage":"{LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 4", "commands":["moneypouch {player} 4"], "message":"{GRAY}You won a {LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 4"},
+	{"rouletteMessage":"{LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 5", "commands":["moneypouch {player} 5"], "message":"{GRAY}You won a {LIGHT_PURPLE}Money Pouch{DARK_GRAY}: {GRAY}Tier 5"},
+	{"rouletteMessage":"{AQUA}Legendary Key {DARK_GRAY}({GRAY}x3{DARK_GRAY})", "commands":["crate give {player} legendary.crate 3"], "message":"{GRAY}You won {AQUA}Legendary Key {DARK_GRAY}({GRAY}x3{DARK_GRAY})"},
+    {"rouletteMessage":"{AQUA}Diamond {DARK_GRAY}({GRAY}x128{DARK_GRAY})", "commands":["give {player} 264 128"], "message":"{GRAY}You won {AQUA}Diamond {DARK_GRAY}({GRAY}x128{DARK_GRAY})"},
+    {"rouletteMessage":"{AQUA}Diamond {DARK_GRAY}({GRAY}x64{DARK_GRAY})", "commands":["give {player} 264 64"], "message":"{GRAY}You won {AQUA}Diamond {DARK_GRAY}({GRAY}x64{DARK_GRAY})"},
+    {"rouletteMessage":"{BLACK}Bedrock {DARK_GRAY}({GRAY}x12{DARK_GRAY})", "commands":["give {player} 7 12"], "message":"{GRAY}You won {BLACK}Bedrock {DARK_GRAY}({GRAY}x12{DARK_GRAY})"},
+    {"rouletteMessage":"{DARK_PURPLE}Obsidian {DARK_GRAY}({GRAY}x128{DARK_GRAY})", "commands":["give {player} 49 128"], "message":"{GRAY}You won {DARK_PURPLE}Obsidian {DARK_GRAY}({GRAY}x128{DARK_GRAY})"},
+    {"rouletteMessage":"{ORANGE}$100,000", "commands":["givemoney {player} 100000"], "message":"{GRAY}You won {ORANGE}$100,000"},
+    {"rouletteMessage":"{LIGHT_PURPLE}God Apple {DARK_GRAY}({GRAY}x32{DARK_GRAY})", "commands":["give {player} 466 32"], "message":"{GRAY}You won {LIGHT_PURPLE}God Apple {DARK_GRAY}({GRAY}x32{DARK_GRAY})"},
+    {"rouletteMessage":"{YELLOW}Golden Apple {DARK_GRAY}({GRAY}x128{DARK_GRAY})", "commands":["give {player} 322 128"], "message":"{GRAY}You won {YELLOW}Golden Apple {DARK_GRAY}({GRAY}x128{DARK_GRAY})"}
+  ]
+}
