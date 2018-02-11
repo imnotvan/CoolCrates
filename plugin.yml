@@ -1,6 +1,6 @@
 name: CoolCrates
 description: Simple crate plugin
-author: ShadowLessMCPE
+author: GiantQuartz
 website:
 main: CoolCrates\Loader
 load: POSTWORLD
